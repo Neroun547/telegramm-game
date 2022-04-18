@@ -1,0 +1,15 @@
+{
+  "name": "game-telegramm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Gosha",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.7.0"
+  }
+}
